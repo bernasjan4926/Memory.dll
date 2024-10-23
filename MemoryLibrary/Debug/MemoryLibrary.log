@@ -1,0 +1,8 @@
+﻿  main.cpp
+     Creating library C:\Users\sigur\source\repos\MemoryLibrary\Debug\MemoryLibrary.lib and object C:\Users\sigur\source\repos\MemoryLibrary\Debug\MemoryLibrary.exp
+LINK : warning LNK4217: symbol '_OpenProcessById' defined in 'library.obj' is imported by 'main.obj' in function '_main'
+LINK : warning LNK4217: symbol '_ReadMemory' defined in 'library.obj' is imported by 'main.obj' in function '_main'
+LINK : warning LNK4217: symbol '_WriteMemory' defined in 'library.obj' is imported by 'main.obj' in function '_main'
+LINK : warning LNK4217: symbol '_CloseProcess' defined in 'library.obj' is imported by 'main.obj' in function '_main'
+LINK : warning LNK4217: symbol '_InjectDLL' defined in 'library.obj' is imported by 'main.obj' in function '_main'
+  MemoryLibrary.vcxproj -> C:\Users\sigur\source\repos\MemoryLibrary\Debug\MemoryLibrary.dll

@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  injection.cpp
+  library.cpp
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.cpp(12,41): warning C4273: 'OpenProcessById': inconsistent dll linkage
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.h(16,24): message : see previous definition of 'OpenProcessById'
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.cpp(23,88): warning C4273: 'ReadMemory': inconsistent dll linkage
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.h(17,22): message : see previous definition of 'ReadMemory'
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.cpp(35,89): warning C4273: 'WriteMemory': inconsistent dll linkage
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.h(18,22): message : see previous definition of 'WriteMemory'
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.cpp(47,36): warning C4273: 'CloseProcess': inconsistent dll linkage
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.h(19,22): message : see previous definition of 'CloseProcess'
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.cpp(56,54): warning C4273: 'InjectDLL': inconsistent dll linkage
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.h(22,22): message : see previous definition of 'InjectDLL'
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.cpp(99,59): warning C4273: 'InjectMono': inconsistent dll linkage
+C:\Users\sigur\source\repos\MemoryLibrary\MemoryLibrary\library.h(25,22): message : see previous definition of 'InjectMono'
+  main.cpp
+     Creating library C:\Users\sigur\source\repos\MemoryLibrary\Release\MemoryLibrary.lib and object C:\Users\sigur\source\repos\MemoryLibrary\Release\MemoryLibrary.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MemoryLibrary.vcxproj -> C:\Users\sigur\source\repos\MemoryLibrary\Release\MemoryLibrary.dll
