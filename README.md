@@ -18,7 +18,7 @@ The Memory.dll library provides functions for manipulating memory in other proce
 
 ## Installation
 
-### Clone the Repository
+### Clone the Repository or download the zip file
 
 Bash:
 ```bash
