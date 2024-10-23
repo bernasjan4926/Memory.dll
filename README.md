@@ -17,7 +17,6 @@ Installation
 Clone the Repository:
 
 bash
-Kopier kode
 git clone https://github.com/yourusername/Memory.dll.git
 cd Memory.dll
 Build the Library:
