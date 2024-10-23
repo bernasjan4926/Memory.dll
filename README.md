@@ -15,7 +15,7 @@ The Memory.dll library provides functions for manipulating memory in other proce
 ## Prerequisites
 \- Visual Studio (or another C++ compiler)
 \- Basic knowledge of C++ and Windows API
-
+\- Remember to edit the files before compiling as you have to define which memory adress to load an so on for the other files
 ## Installation
 
 ### Clone the Repository or download the zip file
@@ -97,3 +97,4 @@ int main() {
 
 # Notes
 \- Use the correct process ID and memory addresses relevant to your target application.
+\- This is a very basic one so expand to your needs
