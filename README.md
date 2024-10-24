@@ -19,7 +19,7 @@ The Memory.dll library provides functions for manipulating memory in other proce
 ## Installation
 
 ### Clone the Repository or download the zip file
-### also dont forget to compile it to x86 or x64 depending on which architecture the game/process is and all of those 
+### also dont forget to compile it to x86 or x64 depending on which architecture the game/process is 
 Bash:
 ```bash
 git clone https://github.com/yourusername/Memory.dll.git
