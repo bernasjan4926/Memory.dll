@@ -1,5 +1,5 @@
 # Memory.dll
-**This is a memory editing/dll injection library that I will continue to work on as a side project which will be 100% open source.**
+**This is a memory editing/dll injection library**
 
 ## Memory.dll Library
 The Memory.dll library provides functions for manipulating memory in other processes, such as reading and writing memory, as well as DLL injection and Mono injection. This library is intended for developers looking to create cheat trainers or similar applications.
